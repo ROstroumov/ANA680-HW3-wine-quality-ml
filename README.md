@@ -1,12 +1,13 @@
-# My Machine Learning Projects
+# Wine Quality Prediction Project
 
-## Projects
+SageMaker assignment for wine quality prediction using machine learning.
 
-1. **Student Performance Predictor** - Flask ML web application deployed on Heroku
-2. **Wine Quality Prediction** - SageMaker assignment with container deployment
+## Project Structure
+- `wine-quality-prediction/` - Main project directory containing all code
+- Notebooks, Dockerfile, and application files for wine quality analysis
 
-## Directory Structure
-
-- `student-performance-predictor/` - Original Flask ML app
-- `wine-quality-prediction/` - SageMaker wine quality assignment
+## Assignment 5
+- SageMaker notebook implementation
+- Container deployment with Docker
+- Wine quality dataset analysis and prediction
 
