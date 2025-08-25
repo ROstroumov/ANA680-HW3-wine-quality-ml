@@ -1,13 +1,19 @@
-# Wine Quality Prediction Project
+# Wine Quality Prediction
 
-SageMaker assignment for wine quality prediction using machine learning.
+SageMaker Assignment 5 - Complete wine quality prediction pipeline with container deployment.
 
 ## Project Structure
-- `wine-quality-prediction/` - Main project directory containing all code
-- Notebooks, Dockerfile, and application files for wine quality analysis
+All main files are in the `wine-quality-prediction/` directory:
 
-## Assignment 5
-- SageMaker notebook implementation
-- Container deployment with Docker
-- Wine quality dataset analysis and prediction
+- `sagemaker_wine_quality.ipynb` - Main SageMaker notebook
+- `simple_container_notebook.py` - Container code
+- `Dockerfile` - Container configuration
+- `app.py` - Flask application
+- `train.py` - Training script
+- `requirements.txt` - Dependencies
+
+## Features
+- Machine learning with SageMaker
+- Docker containerization
+- Ready for deployment
 
